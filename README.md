@@ -1,6 +1,6 @@
 # Emoji menu
+
 An accessible emoji menu add-on for NVDA screen reader.
-Author: Abdalrahmen maher (Diamond Star)
 
 # Introduction
 
